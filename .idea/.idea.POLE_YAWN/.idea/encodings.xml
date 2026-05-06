@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Assets/Script/Bullet.cs" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/Assets/Script/Grid.cs" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/Assets/Script/MainWindow.cs" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/Assets/Script/MapWindow.cs" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/Assets/Script/Monster/Monster.cs" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/Assets/Script/Monster/MonsterManger.cs" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/Assets/Script/Monster/SpecialMonster.cs" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/Assets/Script/PoisonGasBullet.cs" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/Assets/Script/RetardBullet.cs" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/Assets/Script/TaItemUI.cs" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/Assets/Script/Tower.cs" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/Assets/Script/UI/CombatInfoWindow.cs" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/Assets/Script/UI/TaWindow.cs" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/Assets/Script/UI/UpLevelWindow.cs" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/Assets/Script/UI/WordHpUI.cs" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/Assets/Script/UI/WorldUIManager.cs" charset="GB18030" />
+  </component>
+</project>
